@@ -6,6 +6,8 @@ public class text {
         System.out.println("这是第二个版本");
         System.out.println("这是第三个版本");
         System.out.println("这是hot-fix");
+        System.out.println("我这也是hot-fix 2");
+
 
     }
 }
