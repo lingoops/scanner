@@ -9,6 +9,7 @@ public class text {
         System.out.println("我这也是hot-fix 2");
 
         System.out.println("我这是master");
+        System.out.println("push text");
 
     }
 }
