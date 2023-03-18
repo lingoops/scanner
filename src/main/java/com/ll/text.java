@@ -11,5 +11,6 @@ public class text {
         System.out.println("我这是master");
         System.out.println("push text");
  System.out.println("拉取远程库到本地库");
+        System.out.println("这是在码云的操作");
     }
 }
