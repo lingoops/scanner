@@ -16,5 +16,7 @@ public class text {
 
 
         System.out.println("在码云拉取远程库到本地库");
+
+        System.out.println("在idea把本地库推送到远程库");
     }
 }
